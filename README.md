@@ -1,6 +1,6 @@
 # E-Store CMS 
 
-E-Store is here to help you choose what you need (and perhaps, want). We use RESTful API with JSON formatted responses.
+E-Store-cms is here to manage your products before publishing it to main e-store website (https://e-store-24ed0.web.app/). We use RESTful API with JSON formatted responses.
 
 stack server:
 
