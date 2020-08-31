@@ -1,4 +1,4 @@
-# E-Commerce CMS Server
+# E-Store CMS 
 
 E-Store is here to help you choose what you need (and perhaps, want). We use RESTful API with JSON formatted responses.
 
