@@ -2,6 +2,26 @@
 
 E-Store is here to help you choose what you need (and perhaps, want). We use RESTful API with JSON formatted responses.
 
+stack server:
+
+    Bcrypt
+    JWT
+    Express
+    PostgreSQL
+    Sequelize
+
+stack client:
+
+    Vue.js
+    Bootstrap
+    HTML & CSS
+
+you can check out the demo here https://e-store-334f4.web.app
+
+login with admin@email.com password: 12345
+
+below is e-store-cms server formatted responses:
+
 ## Global Response
 
     - Response 500: Internal server error
